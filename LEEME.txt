@@ -1,0 +1,11 @@
+MARA FASHION STUDIO 3D
+=====================
+Abre index.html en Chrome, Edge o Firefox con conexión a Internet.
+
+Recomendación: si tu navegador bloquea los módulos al abrir archivos locales, abre la carpeta con Visual Studio Code y la extensión Live Server, o ejecuta en la carpeta:
+python -m http.server 8000
+Luego visita http://localhost:8000
+
+Características: visor 3D con modelos geométricos generados mediante Three.js; 18 tipos de prendas, colores y degradados, textos y logos, acabados, exportación PNG y proyecto JSON, guardado automático local.
+
+Importante: se trata de una herramienta creativa de visualización conceptual. No genera moldes de confección ni patrones industriales; no es un clon exacto de la web del TikTok. El visor 3D usa la biblioteca Three.js desde CDN y requiere Internet. La voz depende de las voces instaladas en el navegador o sistema.
